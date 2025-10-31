@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+text-align: center;
+background-color: darkslategrey;
+}
+
+h2 {
+    color: darkcyan;
+}
+.form-group {
+    margin-bottom: 10px;
+}
+
+input {
+    padding: 8px;
+    width: 250px;
+background-color: darkslategray;
+}
+
+button {
+    padding: 10px 15px ;
+    background-color: rgb(37, 63, 63);
+    color: darkcyan;
+    border: none;
+    cursor: pointer;
+border-radius: 5px;
+}
+
+.message {
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.error {
+    background-color: rgb(37, 63, 63);
+    color: #721c24;
+}
+
+.success {
+    background-color:rgb(37, 63, 63) ;
+    color: #155724;
+}
